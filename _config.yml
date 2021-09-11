@@ -7,7 +7,7 @@ description: "hey"
 keyword: "day day up"
 url: "https://yuanshan279.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/yuanshan/yuanshan.github.io.git" # you code repository
+github_repo: "https://github.com/yuanshan/yuanshan279.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
